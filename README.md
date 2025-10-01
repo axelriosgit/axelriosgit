@@ -1,7 +1,6 @@
-<!-- Banner animado -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5jbDY2M240dTNzOTNkZWNtMzMwd3lkMjlhdjhwcnE5dDk4cGhseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" alt="Banner animado programador"/>
-
 # 👋 Hola, soy Axel
+ 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5jbDY2M240dTNzOTNkZWNtMzMwd3lkMjlhdjhwcnE5dDk4cGhseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" alt="Banner animado programador"/>
 
 ## 🛠️ Tecnologías y Lenguajes
 | Lenguaje | Logo |
