@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Banner animado programador"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5jbDY2M240dTNzOTNkZWNtMzMwd3lkMjlhdjhwcnE5dDk4cGhseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" alt="Banner animado programador"/>
 
 # 👋 Hola, soy Axel
 
