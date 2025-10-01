@@ -1,4 +1,6 @@
-![Banner](https://i.gifer.com/origin/9e/9eebf9f64c6e3af3f1b5b77910e6c33c.gif)
+<!-- Banner animado -->
+![Banner](https://i.gifer.com/7VE.gif)
+<img src="https://i.gifer.com/7VE.gif" width="100%" alt="Banner animado programador"/>
 
 # 👋 Hola, soy Axel
 
