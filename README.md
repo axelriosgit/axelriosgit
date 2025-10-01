@@ -1,6 +1,6 @@
 <!-- Banner animado -->
-![Banner](https://i.gifer.com/7VE.gif)
-<img src="https://i.gifer.com/7VE.gif" width="100%" alt="Banner animado programador"/>
+![Banner animado](URL_DEL_GIF)
+![Programador con múltiples pantallas](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work%20Culture/Multi%20Screen%20Analysis.gif)
 
 # 👋 Hola, soy Axel
 
