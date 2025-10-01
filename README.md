@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-![Programador con múltiples pantallas]([https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work%20Culture/Multi%20Screen%20Analysis.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif))
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Banner animado programador"/>
 
 # 👋 Hola, soy Axel
 
