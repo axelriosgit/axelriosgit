@@ -4,7 +4,7 @@
 
 ## 📫 Contacto  
 
-<a href="www.linkedin.com/in/axel-leonel-rios-592057340">
+<a href="www.linkedin.com/in/axel-leonel-rios-592057340/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px">
 </a>
 <a href="https://twitter.com/tuusuario">
